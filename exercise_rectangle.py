@@ -15,4 +15,3 @@ def rectangle():
     perimetro = (base + altura)*2
     print(perimetro)
 
-rectangle()

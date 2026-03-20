@@ -13,3 +13,12 @@ def math():
     """
     a = 57
     b = 7
+
+    i1= a + b
+    i2= a - b
+    i3= a * b
+    i4= (a+b)/2
+    i5= a%b
+    i6= a/b
+    print(i1,i2,i3,i4,i5,i6)
+
